@@ -1,6 +1,6 @@
-# Rakia Technical Assessment
+# Technical Assessment
 
-This repository contains solutions for both the logical test and technical test components of the Rakia technical assessment.
+This repository contains solutions for both the logical test and technical test components of technical assessment.
 
 ## Project Structure
 
