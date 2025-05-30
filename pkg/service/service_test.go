@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/g3co/4hbty/pkg/models"
+	"github.com/g3co/4hbty/pkg/store"
 	"github.com/gorilla/mux"
-	"github.com/valeriikabisov/rakia/pkg/models"
-	"github.com/valeriikabisov/rakia/pkg/store"
 )
 
 func TestCreatePost(t *testing.T) {

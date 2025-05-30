@@ -8,10 +8,10 @@ import (
 	"os/signal"
 	"syscall"
 
+	"github.com/g3co/4hbty/pkg/rest"
+	"github.com/g3co/4hbty/pkg/service"
+	"github.com/g3co/4hbty/pkg/store"
 	"github.com/gorilla/mux"
-	"github.com/valeriikabisov/rakia/pkg/rest"
-	"github.com/valeriikabisov/rakia/pkg/service"
-	"github.com/valeriikabisov/rakia/pkg/store"
 	"golang.org/x/sync/errgroup"
 )
 

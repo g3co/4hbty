@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/valeriikabisov/rakia/pkg/models"
+	"github.com/g3co/4hbty/pkg/models"
 )
 
 var (

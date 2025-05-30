@@ -3,9 +3,9 @@ package rest
 import (
 	"net/http"
 
+	"github.com/g3co/4hbty/pkg/service"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
-	"github.com/valeriikabisov/rakia/pkg/service"
 )
 
 func NewHTTPROuter(s *service.Service) http.Handler {
